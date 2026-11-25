@@ -1,1 +1,1 @@
-{"name":"joke-office-entry","private":true,"type":"module","version":"1.0.0"}
+{"description":"One-line office joke entry for make.fun's Make the AI Judge Laugh: the Office Joke Open bounty","name":"joke-office-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.1.0"}
